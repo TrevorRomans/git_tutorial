@@ -5,6 +5,7 @@ void main() {
 }
 
 // TODO: Developers, add your screens below here
+//Added the new log-in screen, stay tuned, WIP
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
