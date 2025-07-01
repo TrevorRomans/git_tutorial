@@ -6,6 +6,7 @@ void main() {
 
 // TODO: Developers, add your screens below here
 //Added new home screen
+//Updated the login screen, should be better now :)
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
