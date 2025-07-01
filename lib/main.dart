@@ -5,7 +5,7 @@ void main() {
 }
 
 // TODO: Developers, add your screens below here
-//Added new home screen
+//Home screen now finished
 //Updated the login screen, should be better now :)
 
 class MyApp extends StatelessWidget {
